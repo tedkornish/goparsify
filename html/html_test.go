@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/vektah/goparsify"
+	"github.com/tedkornish/goparsify"
 )
 
 func TestParse(t *testing.T) {

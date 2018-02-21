@@ -8,7 +8,7 @@ import (
 
 	parsecJson "github.com/prataprc/goparsec/json"
 	"github.com/stretchr/testify/require"
-	"github.com/vektah/goparsify"
+	"github.com/tedkornish/goparsify"
 )
 
 func TestUnmarshal(t *testing.T) {
